@@ -205,7 +205,7 @@ A social and collaboration platform built around technology communities, discove
 
 <br>
 
-<a href="YOUR_TECHSPHERE_REPO_URL">
+<a href="https://techspere-production.up.railway.app/">
 <img src="https://img.shields.io/badge/SOURCE%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -236,7 +236,7 @@ A full-stack e-commerce application designed around real-world shopping and paym
 
 <br>
 
-<a href="YOUR_TRULY_ASAKE_REPO_URL">
+<a href="https://truly-asake.vercel.app/">
 <img src="https://img.shields.io/badge/SOURCE%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
