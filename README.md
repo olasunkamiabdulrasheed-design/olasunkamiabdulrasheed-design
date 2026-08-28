@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1d4ed8,100:0d1117&height=240&section=header&text=EDDIE%20MICH&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20BACKEND%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:2563eb,100:0d1117&height=240&section=header&text=EDDIE%20MICH&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20BACKEND%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
 
 <br>
 
 <a href="https://eddieportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-111827?style=for-the-badge" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/abdulrasheed-olasunkami-b0013b41a/">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-111827?style=for-the-badge" />
 </a>
 &nbsp;
 <a href="https://github.com/olasunkamiabdulrasheed-design">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20GITHUB-111827?style=for-the-badge" />
 </a>
 
 <br><br>
@@ -24,36 +24,36 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 <table>
 <tr>
-<td width="65%">
+<td width="68%">
 
 ### I'm EDDIE MICH.
 
 I'm a **Software Developer, Backend Engineer, and Full-Stack Developer** focused on building practical software products, backend systems, APIs, and modern web applications.
 
-My main development work revolves around **Python, Django, Django REST Framework, PostgreSQL, JavaScript, and Tailwind CSS**.
+My development work spans **Python, Django, Django REST Framework, Node.js, React, React Native, PostgreSQL, JavaScript, and Tailwind CSS**.
 
-I enjoy turning ideas into working products — from **architecture and database design to API development, frontend integration, deployment, and iteration**.
+I enjoy taking products from **idea → architecture → development → deployment → iteration**.
 
 </td>
 
-<td width="35%">
+<td width="32%">
 
 ```text
-ROLE
+👨‍💻 ROLE
 Software Developer
 
-FOCUS
+⚙️ FOCUS
 Backend Engineering
 
-PRIMARY STACK
-Python + Django
-
-BUILDING
+🚀 BUILDING
 Real-world Products
+
+🌍 BASED
+Lagos, Nigeria
 ```
 
 </td>
@@ -66,47 +66,63 @@ Real-world Products
 
 <div align="center">
 
-|     🧠 Backend Systems     |          🔌 REST APIs          |         🛒 E-commerce         |
-| :------------------------: | :----------------------------: | :---------------------------: |
-| Scalable application logic | API architecture & integration | Real-world commerce workflows |
+<table>
+<tr>
+<td align="center">🏗️<br><b>Backend Systems</b></td>
+<td align="center">🔌<br><b>REST APIs</b></td>
+<td align="center">🌐<br><b>Web Applications</b></td>
+</tr>
 
-|        🔐 Authentication        |         💳 Payments         |   🌐 Full-Stack Apps  |
-| :-----------------------------: | :-------------------------: | :-------------------: |
-| Secure user flows & permissions | Payment gateway integration | Complete web products |
+<tr>
+<td align="center">🛒<br><b>E-commerce</b></td>
+<td align="center">📱<br><b>Mobile Apps</b></td>
+<td align="center">🚀<br><b>SaaS Products</b></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
 <br><br>
 
-### Backend
+## ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=django" />
-
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=tailwind,javascript" />
+<img src="https://skillicons.dev/icons?i=django,nodejs" />
 
 <br><br>
 
-### Databases
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,javascript" />
+
+<br><br>
+
+## 📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+<br>
+
+<b>React Native</b>
+
+<br><br>
+
+## 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
 <br><br>
 
-### Tools & Deployment
+## 🔧 Tools & Deployment
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,render" />
 
@@ -129,24 +145,24 @@ Real-world Products
 
 A community and collaboration platform designed around technology discovery, networking, teamwork, and resource sharing.
 
-**Core stack**
+**🧰 Stack**
 
 `Django` `PostgreSQL` `Tailwind CSS` `REST API`
 
-**Highlights**
+**✨ Highlights**
 
-* Community channels
-* Team Finder
-* Authentication
-* Notifications
-* Search
-* Dashboard
-* Resource management
+* 🔐 Authentication & user management
+* 👥 Community channels
+* 🤝 Team Finder
+* 🔔 Notifications
+* 🔎 Search
+* 📊 Dashboard
+* 📚 Resource management
 
 <br>
 
 <a href="YOUR_TECHSPHERE_REPO_URL">
-<img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111827?style=for-the-badge" />
 </a>
 
 </td>
@@ -161,23 +177,23 @@ A community and collaboration platform designed around technology discovery, net
 
 A full-stack commerce platform built around real-world product browsing, shopping, and payment workflows.
 
-**Core stack**
+**🧰 Stack**
 
 `Django` `PostgreSQL` `JavaScript` `Tailwind CSS` `Paystack`
 
-**Highlights**
+**✨ Highlights**
 
-* Product management
-* Shopping workflows
-* User authentication
-* Payment integration
-* Database-driven architecture
-* Responsive interface
+* 🛍️ Product management
+* 🛒 Shopping workflows
+* 🔐 User authentication
+* 💳 Payment integration
+* 🗄️ Database architecture
+* 📱 Responsive interface
 
 <br>
 
 <a href="YOUR_TRULY_ASAKE_REPO_URL">
-<img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111827?style=for-the-badge" />
 </a>
 
 </td>
@@ -196,23 +212,23 @@ A full-stack commerce platform built around real-world product browsing, shoppin
 
 A technology-focused e-commerce application for presenting and managing gadgets and digital products.
 
-**Core stack**
+**🧰 Stack**
 
 `Django` `PostgreSQL` `JavaScript` `Tailwind CSS`
 
-**Highlights**
+**✨ Highlights**
 
-* Product catalogue
-* User workflows
-* Database integration
-* Responsive UI
-* Product management
-* E-commerce architecture
+* 📦 Product catalogue
+* 👤 User workflows
+* 🗄️ Database integration
+* 📱 Responsive UI
+* ⚙️ Product management
+* 🛒 E-commerce architecture
 
 <br>
 
 <a href="YOUR_GADGET_HUB_REPO_URL">
-<img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111827?style=for-the-badge" />
 </a>
 
 </td>
@@ -227,23 +243,23 @@ A technology-focused e-commerce application for presenting and managing gadgets 
 
 My personal portfolio showcasing my development work, projects, technical skills, services, and experience.
 
-**Core stack**
+**🧰 Stack**
 
 `HTML` `Tailwind CSS` `JavaScript`
 
-**Highlights**
+**✨ Highlights**
 
-* Project showcase
-* Developer profile
-* Services
-* Responsive design
-* Modern UI
-* Personal brand
+* 🎨 Modern UI
+* 📂 Project showcase
+* 👨‍💻 Developer profile
+* 🧰 Services
+* 📱 Responsive design
+* 🚀 Personal brand
 
 <br>
 
 <a href="https://eddieportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-111827?style=for-the-badge" />
 </a>
 
 </td>
@@ -253,55 +269,78 @@ My personal portfolio showcasing my development work, projects, technical skills
 
 ---
 
-# ⚙️ Engineering Focus
+# 🧠 Development Areas
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">🏗️<br><b>Backend Architecture</b></td>
-<td align="center">🔌<br><b>API Development</b></td>
-<td align="center">🗄️<br><b>Database Design</b></td>
-</tr>
-
-<tr>
-<td align="center">🔐<br><b>Authentication</b></td>
-<td align="center">💳<br><b>Payment Integration</b></td>
-<td align="center">🚀<br><b>Deployment</b></td>
-</tr>
-</table>
+| Area                      | Focus                                       |
+| :------------------------ | :------------------------------------------ |
+| 🏗️ Backend Engineering   | Application architecture & business logic   |
+| 🔌 API Development        | REST APIs & system integrations             |
+| 🗄️ Database Engineering  | Data modeling & database architecture       |
+| 🔐 Authentication         | User identity, permissions & access control |
+| 💳 Payment Systems        | Payment gateway integrations                |
+| 🌐 Full-Stack Development | Backend + modern frontend applications      |
+| 📱 Mobile Development     | React Native applications                   |
+| 🚀 Deployment             | Production-ready application deployment     |
 
 </div>
 
 ---
 
-# 🧩 How I Approach Development
+# ⚙️ Development Workflow
 
 <div align="center">
 
 ```text
-IDEA
-  ↓
-ARCHITECTURE
-  ↓
-DATABASE DESIGN
-  ↓
-BACKEND DEVELOPMENT
-  ↓
-API DESIGN
-  ↓
-FRONTEND INTEGRATION
-  ↓
-TESTING
-  ↓
-DEPLOYMENT
-  ↓
-ITERATION
+💡 IDEA
+   ↓
+📐 ARCHITECTURE
+   ↓
+🗄️ DATABASE DESIGN
+   ↓
+⚙️ BACKEND DEVELOPMENT
+   ↓
+🔌 API DESIGN
+   ↓
+🎨 FRONTEND / MOBILE
+   ↓
+🧪 TESTING
+   ↓
+🚀 DEPLOYMENT
+   ↓
+🔄 ITERATION
 ```
 
 </div>
 
-I focus on building systems that are **structured, maintainable, practical, and ready to evolve** rather than simply making something work once.
+I focus on building systems that are **structured, maintainable, practical, and designed to evolve**.
+
+---
+
+# 📱 Web & Mobile Development
+
+<div align="center">
+
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+
+<br>
+
+**React • Tailwind CSS • JavaScript**
+
+<br><br>
+
+### 📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+<br>
+
+**React Native**
+
+</div>
 
 ---
 
@@ -311,16 +350,18 @@ I focus on building systems that are **structured, maintainable, practical, and 
 <tr>
 <td width="70%">
 
-### Building Better Software
+### 🚀 Building Better Software
 
 Currently focused on:
 
-* Designing stronger backend architectures
-* Building reliable REST APIs
-* Improving database design
-* Developing real-world software products
-* Working with modern deployment workflows
-* Exploring new approaches to scalable web applications
+* 🏗️ Stronger backend architectures
+* 🔌 Reliable REST APIs
+* 🗄️ Better database design
+* 🌐 Full-stack applications
+* 📱 React Native mobile development
+* 🤖 Modern software & AI-powered products
+* 🚀 Production deployment
+* 🔄 Continuous improvement
 
 </td>
 
@@ -329,10 +370,10 @@ Currently focused on:
 ```text
 STATUS
 
-● Building
-● Learning
-● Shipping
-● Improving
+🟢 BUILDING
+🟢 LEARNING
+🟢 SHIPPING
+🟢 IMPROVING
 ```
 
 </td>
@@ -345,23 +386,23 @@ STATUS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=olasunkamiabdulrasheed-design&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=olasunkamiabdulrasheed-design&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olasunkamiabdulrasheed-design&layout=compact&theme=github_dark&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olasunkamiabdulrasheed-design&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=olasunkamiabdulrasheed-design&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=olasunkamiabdulrasheed-design&theme=github-dark-blue&hide_border=true" width="70%" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 🔥 GitHub Contribution
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=olasunkamiabdulrasheed-design&theme=github-compact&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=olasunkamiabdulrasheed-design&show=reviews,prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true" width="70%" />
 
 </div>
 
@@ -372,19 +413,19 @@ STATUS
 <div align="center">
 
 <a href="https://eddieportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-2563eb?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-2563eb?style=for-the-badge" />
 </a>
 
  
 
 <a href="https://www.linkedin.com/in/abdulrasheed-olasunkami-b0013b41a/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-2563eb?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-2563eb?style=for-the-badge" />
 </a>
 
  
 
 <a href="https://github.com/olasunkamiabdulrasheed-design">
-<img src="https://img.shields.io/badge/💻%20GITHUB-2563eb?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20GITHUB-2563eb?style=for-the-badge" />
 </a>
 
 </div>
@@ -393,10 +434,10 @@ STATUS
 
 <div align="center">
 
-### "Build things that solve real problems."
+### 🚀 Build. Ship. Improve. Repeat.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1d4ed8,100:0d1117&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:2563eb,100:0d1117&height=140&section=footer" width="100%"/>
 
 </div>
